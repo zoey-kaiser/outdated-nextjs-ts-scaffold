@@ -1,7 +1,7 @@
 import {observer} from "mobx-react-lite";
 import persistentStore from "../stores/PersistentStore";
 import DefaultComponent from "../components/DefaultComponent";
-import DefaultLayout from "../layout/DefaultLayout";
+import DefaultLayout from "../layouts/DefaultLayout";
 
 const IndexPage = observer(() => {
 
